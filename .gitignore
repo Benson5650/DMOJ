@@ -21,3 +21,5 @@ sass_processed
 websocket/**/*
 !websocket/daemon.js
 !websocket/wscat.js
+martor/**/*.png
+martor/**/*.jpg
