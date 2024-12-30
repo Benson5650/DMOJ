@@ -23,3 +23,9 @@ websocket/**/*
 !websocket/wscat.js
 martor/**/*.png
 martor/**/*.jpg
+
+package-lock.json
+
+node_modules/
+
+package.json
